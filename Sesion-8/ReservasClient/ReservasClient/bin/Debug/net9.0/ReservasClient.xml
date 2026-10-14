@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ReservasClient</name>
+    </assembly>
+    <members>
+        <member name="M:ReservasClient.Controllers.AuthController.Login">
+            <summary>Genera un token JWT de prueba.</summary>
+        </member>
+    </members>
+</doc>

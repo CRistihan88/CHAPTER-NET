@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\bin\Debug\net9.0\TeamManager.exe
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\bin\Debug\net9.0\TeamManager.deps.json
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\bin\Debug\net9.0\TeamManager.runtimeconfig.json
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\bin\Debug\net9.0\TeamManager.dll
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\bin\Debug\net9.0\TeamManager.pdb
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.dll
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\refint\TeamManager.dll
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.pdb
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\TeamManager.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-1\TeamManager\TeamManager\obj\Debug\net9.0\ref\TeamManager.dll

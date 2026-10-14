@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\bin\Debug\net9.0\PatronesFactory.exe
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\bin\Debug\net9.0\PatronesFactory.deps.json
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\bin\Debug\net9.0\PatronesFactory.runtimeconfig.json
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\bin\Debug\net9.0\PatronesFactory.dll
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\bin\Debug\net9.0\PatronesFactory.pdb
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.dll
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\refint\PatronesFactory.dll
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.pdb
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\PatronesFactory.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-5\PatronesFactory\PatronesFactory\obj\Debug\net9.0\ref\PatronesFactory.dll

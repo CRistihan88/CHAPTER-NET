@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\bin\Debug\net9.0\ReporteService.exe
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\bin\Debug\net9.0\ReporteService.deps.json
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\bin\Debug\net9.0\ReporteService.runtimeconfig.json
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\bin\Debug\net9.0\ReporteService.dll
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\bin\Debug\net9.0\ReporteService.pdb
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.dll
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\refint\ReporteService.dll
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.pdb
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ReporteService.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-5\ReporteService\ReporteService\obj\Debug\net9.0\ref\ReporteService.dll

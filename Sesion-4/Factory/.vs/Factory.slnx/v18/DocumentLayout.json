@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-4\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\smsnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\smsnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\notificadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\notificadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\teamsnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\teamsnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\emailnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\emailnotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|c:\\chapter net\\sesion-4\\factory\\factory\\notificadortipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EFA7FF-9DA9-4780-99C2-1E5AE57338EE}|Factory\\Factory.csproj|solutionrelative:factory\\notificadortipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamsNotificador.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\TeamsNotificador.cs",
+              "RelativeDocumentMoniker": "Factory\\TeamsNotificador.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\TeamsNotificador.cs",
+              "RelativeToolTip": "Factory\\TeamsNotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:37:51.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmsNotificador.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\SmsNotificador.cs",
+              "RelativeDocumentMoniker": "Factory\\SmsNotificador.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\SmsNotificador.cs",
+              "RelativeToolTip": "Factory\\SmsNotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:37:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailNotificador.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\EmailNotificador.cs",
+              "RelativeDocumentMoniker": "Factory\\EmailNotificador.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\EmailNotificador.cs",
+              "RelativeToolTip": "Factory\\EmailNotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:37:43.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificadorFactory.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\NotificadorFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\NotificadorFactory.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\NotificadorFactory.cs",
+              "RelativeToolTip": "Factory\\NotificadorFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:37:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificadorTipo.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\NotificadorTipo.cs",
+              "RelativeDocumentMoniker": "Factory\\NotificadorTipo.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\NotificadorTipo.cs",
+              "RelativeToolTip": "Factory\\NotificadorTipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:37:35.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\INotificador.cs",
+              "RelativeDocumentMoniker": "Factory\\INotificador.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\INotificador.cs",
+              "RelativeToolTip": "Factory\\INotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:37:27.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Factory\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\Factory\\Factory\\Program.cs",
+              "RelativeToolTip": "Factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:35:34.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

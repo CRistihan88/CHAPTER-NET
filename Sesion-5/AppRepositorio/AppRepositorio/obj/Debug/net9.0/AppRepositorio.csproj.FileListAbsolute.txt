@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\bin\Debug\net9.0\AppRepositorio.exe
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\bin\Debug\net9.0\AppRepositorio.deps.json
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\bin\Debug\net9.0\AppRepositorio.runtimeconfig.json
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\bin\Debug\net9.0\AppRepositorio.dll
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\bin\Debug\net9.0\AppRepositorio.pdb
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.dll
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\refint\AppRepositorio.dll
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.pdb
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\AppRepositorio.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-5\AppRepositorio\AppRepositorio\obj\Debug\net9.0\ref\AppRepositorio.dll

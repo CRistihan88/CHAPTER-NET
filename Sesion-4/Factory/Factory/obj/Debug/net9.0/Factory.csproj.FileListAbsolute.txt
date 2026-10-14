@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-4\Factory\Factory\bin\Debug\net9.0\Factory.exe
+C:\CHAPTER NET\Sesion-4\Factory\Factory\bin\Debug\net9.0\Factory.deps.json
+C:\CHAPTER NET\Sesion-4\Factory\Factory\bin\Debug\net9.0\Factory.runtimeconfig.json
+C:\CHAPTER NET\Sesion-4\Factory\Factory\bin\Debug\net9.0\Factory.dll
+C:\CHAPTER NET\Sesion-4\Factory\Factory\bin\Debug\net9.0\Factory.pdb
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.dll
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\refint\Factory.dll
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.pdb
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\Factory.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-4\Factory\Factory\obj\Debug\net9.0\ref\Factory.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202753AE-1299-81CF-5536-730520A99E0C}|ReservasClient\\ReservasClient.csproj|c:\\chapter net\\sesion-8\\reservasclient\\reservasclient\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202753AE-1299-81CF-5536-730520A99E0C}|ReservasClient\\ReservasClient.csproj|solutionrelative:reservasclient\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202753AE-1299-81CF-5536-730520A99E0C}|ReservasClient\\ReservasClient.csproj|c:\\chapter net\\sesion-8\\reservasclient\\reservasclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202753AE-1299-81CF-5536-730520A99E0C}|ReservasClient\\ReservasClient.csproj|solutionrelative:reservasclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202753AE-1299-81CF-5536-730520A99E0C}|ReservasClient\\ReservasClient.csproj|c:\\chapter net\\sesion-8\\reservasclient\\reservasclient\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202753AE-1299-81CF-5536-730520A99E0C}|ReservasClient\\ReservasClient.csproj|solutionrelative:reservasclient\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\ReservasClient\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ReservasClient\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\ReservasClient\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ReservasClient\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:52:05.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\ReservasClient\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "ReservasClient\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\ReservasClient\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "ReservasClient\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:45:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\ReservasClient\\Program.cs",
+              "RelativeDocumentMoniker": "ReservasClient\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-8\\ReservasClient\\ReservasClient\\Program.cs",
+              "RelativeToolTip": "ReservasClient\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:44:27.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

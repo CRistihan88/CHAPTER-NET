@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9295DD74-890A-44F5-BC24-0538D4C0C4F9}|Sesion01\\Sesion01.csproj|c:\\chapter net\\sesion01\\sesion01\\calculadoraconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9295DD74-890A-44F5-BC24-0538D4C0C4F9}|Sesion01\\Sesion01.csproj|solutionrelative:sesion01\\calculadoraconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraConsola.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion01\\Sesion01\\CalculadoraConsola.cs",
+              "RelativeDocumentMoniker": "Sesion01\\CalculadoraConsola.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion01\\Sesion01\\CalculadoraConsola.cs*",
+              "RelativeToolTip": "Sesion01\\CalculadoraConsola.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T21:23:05.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

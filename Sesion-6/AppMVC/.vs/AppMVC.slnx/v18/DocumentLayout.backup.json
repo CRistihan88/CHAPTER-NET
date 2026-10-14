@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-6\\AppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D8BBBB-EC0A-450E-A4E5-D391F1C790F5}|AppMVC\\AppMVC.csproj|c:\\chapter net\\sesion-6\\appmvc\\appmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D8BBBB-EC0A-450E-A4E5-D391F1C790F5}|AppMVC\\AppMVC.csproj|solutionrelative:appmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D8BBBB-EC0A-450E-A4E5-D391F1C790F5}|AppMVC\\AppMVC.csproj|c:\\chapter net\\sesion-6\\appmvc\\appmvc\\sistemaventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D8BBBB-EC0A-450E-A4E5-D391F1C790F5}|AppMVC\\AppMVC.csproj|solutionrelative:appmvc\\sistemaventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppMVC\\AppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "AppMVC\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppMVC\\AppMVC\\Program.cs",
+              "RelativeToolTip": "AppMVC\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAjwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:29:57.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaVentasContext.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppMVC\\AppMVC\\SistemaVentasContext.cs",
+              "RelativeDocumentMoniker": "AppMVC\\SistemaVentasContext.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppMVC\\AppMVC\\SistemaVentasContext.cs",
+              "RelativeToolTip": "AppMVC\\SistemaVentasContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:15:42.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

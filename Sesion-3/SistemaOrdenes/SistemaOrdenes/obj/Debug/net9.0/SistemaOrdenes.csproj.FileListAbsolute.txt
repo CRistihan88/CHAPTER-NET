@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\bin\Debug\net9.0\SistemaOrdenes.exe
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\bin\Debug\net9.0\SistemaOrdenes.deps.json
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\bin\Debug\net9.0\SistemaOrdenes.runtimeconfig.json
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\bin\Debug\net9.0\SistemaOrdenes.dll
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\bin\Debug\net9.0\SistemaOrdenes.pdb
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.dll
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\refint\SistemaOrdenes.dll
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.pdb
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\SistemaOrdenes.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-3\SistemaOrdenes\SistemaOrdenes\obj\Debug\net9.0\ref\SistemaOrdenes.dll

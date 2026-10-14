@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\bin\Debug\net9.0\RefactorSolid.exe
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\bin\Debug\net9.0\RefactorSolid.deps.json
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\bin\Debug\net9.0\RefactorSolid.runtimeconfig.json
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\bin\Debug\net9.0\RefactorSolid.dll
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\bin\Debug\net9.0\RefactorSolid.pdb
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.dll
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\refint\RefactorSolid.dll
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.pdb
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\RefactorSolid.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-4\RefactorSolid\RefactorSolid\obj\Debug\net9.0\ref\RefactorSolid.dll

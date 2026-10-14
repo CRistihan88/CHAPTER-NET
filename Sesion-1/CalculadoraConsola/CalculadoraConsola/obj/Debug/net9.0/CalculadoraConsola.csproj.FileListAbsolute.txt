@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.exe
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.deps.json
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.runtimeconfig.json
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.dll
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.pdb
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.dll
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\refint\CalculadoraConsola.dll
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.pdb
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-1\CalculadoraConsola\CalculadoraConsola\obj\Debug\net9.0\ref\CalculadoraConsola.dll

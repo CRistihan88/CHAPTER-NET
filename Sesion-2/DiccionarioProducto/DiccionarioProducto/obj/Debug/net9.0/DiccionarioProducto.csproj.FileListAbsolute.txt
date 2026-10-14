@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\bin\Debug\net9.0\DiccionarioProducto.exe
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\bin\Debug\net9.0\DiccionarioProducto.deps.json
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\bin\Debug\net9.0\DiccionarioProducto.runtimeconfig.json
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\bin\Debug\net9.0\DiccionarioProducto.dll
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\bin\Debug\net9.0\DiccionarioProducto.pdb
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.dll
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\refint\DiccionarioProducto.dll
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.pdb
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\DiccionarioProducto.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-2\DiccionarioProducto\DiccionarioProducto\obj\Debug\net9.0\ref\DiccionarioProducto.dll

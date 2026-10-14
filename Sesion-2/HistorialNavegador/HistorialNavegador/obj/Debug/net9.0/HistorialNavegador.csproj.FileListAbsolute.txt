@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\bin\Debug\net9.0\HistorialNavegador.exe
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\bin\Debug\net9.0\HistorialNavegador.deps.json
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\bin\Debug\net9.0\HistorialNavegador.runtimeconfig.json
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\bin\Debug\net9.0\HistorialNavegador.dll
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\bin\Debug\net9.0\HistorialNavegador.pdb
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.dll
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\refint\HistorialNavegador.dll
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.pdb
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\HistorialNavegador.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-2\HistorialNavegador\HistorialNavegador\obj\Debug\net9.0\ref\HistorialNavegador.dll

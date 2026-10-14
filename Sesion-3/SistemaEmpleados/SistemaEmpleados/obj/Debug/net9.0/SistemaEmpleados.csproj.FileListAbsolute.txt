@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\bin\Debug\net9.0\SistemaEmpleados.exe
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\bin\Debug\net9.0\SistemaEmpleados.deps.json
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\bin\Debug\net9.0\SistemaEmpleados.runtimeconfig.json
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\bin\Debug\net9.0\SistemaEmpleados.dll
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\bin\Debug\net9.0\SistemaEmpleados.pdb
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.dll
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\refint\SistemaEmpleados.dll
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.pdb
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\SistemaEmpleados.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-2\SistemaEmpleados\SistemaEmpleados\obj\Debug\net9.0\ref\SistemaEmpleados.dll

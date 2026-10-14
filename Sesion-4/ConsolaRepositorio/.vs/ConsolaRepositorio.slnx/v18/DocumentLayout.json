@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E5DDC-C3C9-4ACF-AEAB-BF8ED368A681}|ConsolaRepositorio\\ConsolaRepositorio.csproj|c:\\chapter net\\sesion-4\\consolarepositorio\\consolarepositorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65E5DDC-C3C9-4ACF-AEAB-BF8ED368A681}|ConsolaRepositorio\\ConsolaRepositorio.csproj|solutionrelative:consolarepositorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E5DDC-C3C9-4ACF-AEAB-BF8ED368A681}|ConsolaRepositorio\\ConsolaRepositorio.csproj|c:\\chapter net\\sesion-4\\consolarepositorio\\consolarepositorio\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65E5DDC-C3C9-4ACF-AEAB-BF8ED368A681}|ConsolaRepositorio\\ConsolaRepositorio.csproj|solutionrelative:consolarepositorio\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65E5DDC-C3C9-4ACF-AEAB-BF8ED368A681}|ConsolaRepositorio\\ConsolaRepositorio.csproj|c:\\chapter net\\sesion-4\\consolarepositorio\\consolarepositorio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65E5DDC-C3C9-4ACF-AEAB-BF8ED368A681}|ConsolaRepositorio\\ConsolaRepositorio.csproj|solutionrelative:consolarepositorio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\ConsolaRepositorio\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "ConsolaRepositorio\\IProductoRepository.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\ConsolaRepositorio\\IProductoRepository.cs",
+              "RelativeToolTip": "ConsolaRepositorio\\IProductoRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvxsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:18:36.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\ConsolaRepositorio\\Producto.cs",
+              "RelativeDocumentMoniker": "ConsolaRepositorio\\Producto.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\ConsolaRepositorio\\Producto.cs",
+              "RelativeToolTip": "ConsolaRepositorio\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:59:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\ConsolaRepositorio\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolaRepositorio\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-4\\ConsolaRepositorio\\ConsolaRepositorio\\Program.cs",
+              "RelativeToolTip": "ConsolaRepositorio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T21:51:57.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

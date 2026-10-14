@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\bin\Debug\net9.0\ConsolaRepositorio.exe
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\bin\Debug\net9.0\ConsolaRepositorio.deps.json
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\bin\Debug\net9.0\ConsolaRepositorio.runtimeconfig.json
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\bin\Debug\net9.0\ConsolaRepositorio.dll
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\bin\Debug\net9.0\ConsolaRepositorio.pdb
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.dll
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\refint\ConsolaRepositorio.dll
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.pdb
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ConsolaRepositorio.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-4\ConsolaRepositorio\ConsolaRepositorio\obj\Debug\net9.0\ref\ConsolaRepositorio.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BDDD-9BCD-4D47-A5FA-EACDE08A2ADE}|AppDAPPER\\AppDAPPER.csproj|c:\\chapter net\\sesion-6\\appdapper\\appdapper\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BDDD-9BCD-4D47-A5FA-EACDE08A2ADE}|AppDAPPER\\AppDAPPER.csproj|solutionrelative:appdapper\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BDDD-9BCD-4D47-A5FA-EACDE08A2ADE}|AppDAPPER\\AppDAPPER.csproj|c:\\chapter net\\sesion-6\\appdapper\\appdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BDDD-9BCD-4D47-A5FA-EACDE08A2ADE}|AppDAPPER\\AppDAPPER.csproj|solutionrelative:appdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BDDD-9BCD-4D47-A5FA-EACDE08A2ADE}|AppDAPPER\\AppDAPPER.csproj|c:\\chapter net\\sesion-6\\appdapper\\appdapper\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BDDD-9BCD-4D47-A5FA-EACDE08A2ADE}|AppDAPPER\\AppDAPPER.csproj|solutionrelative:appdapper\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\AppDAPPER\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "AppDAPPER\\ProductoRepository.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\AppDAPPER\\ProductoRepository.cs*",
+              "RelativeToolTip": "AppDAPPER\\ProductoRepository.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:17:04.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\AppDAPPER\\Producto.cs",
+              "RelativeDocumentMoniker": "AppDAPPER\\Producto.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\AppDAPPER\\Producto.cs",
+              "RelativeToolTip": "AppDAPPER\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:16:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\AppDAPPER\\Program.cs",
+              "RelativeDocumentMoniker": "AppDAPPER\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppDAPPER\\AppDAPPER\\Program.cs",
+              "RelativeToolTip": "AppDAPPER\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:14:15.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

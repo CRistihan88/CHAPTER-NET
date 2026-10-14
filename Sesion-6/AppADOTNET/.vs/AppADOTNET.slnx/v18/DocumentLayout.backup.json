@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-6\\AppADOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE55780-1629-A1C1-0449-92FF23796402}|AppADOTNET\\AppADOTNET.csproj|c:\\chapter net\\sesion-6\\appadotnet\\appadotnet\\productoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE55780-1629-A1C1-0449-92FF23796402}|AppADOTNET\\AppADOTNET.csproj|solutionrelative:appadotnet\\productoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE55780-1629-A1C1-0449-92FF23796402}|AppADOTNET\\AppADOTNET.csproj|c:\\chapter net\\sesion-6\\appadotnet\\appadotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE55780-1629-A1C1-0449-92FF23796402}|AppADOTNET\\AppADOTNET.csproj|solutionrelative:appadotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoADO.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppADOTNET\\AppADOTNET\\ProductoADO.cs",
+              "RelativeDocumentMoniker": "AppADOTNET\\ProductoADO.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppADOTNET\\AppADOTNET\\ProductoADO.cs",
+              "RelativeToolTip": "AppADOTNET\\ProductoADO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:25:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-6\\AppADOTNET\\AppADOTNET\\Program.cs",
+              "RelativeDocumentMoniker": "AppADOTNET\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-6\\AppADOTNET\\AppADOTNET\\Program.cs",
+              "RelativeToolTip": "AppADOTNET\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:22:08.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

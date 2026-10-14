@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\bin\Debug\net9.0\GestorDeNumeros.exe
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\bin\Debug\net9.0\GestorDeNumeros.deps.json
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\bin\Debug\net9.0\GestorDeNumeros.runtimeconfig.json
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\bin\Debug\net9.0\GestorDeNumeros.dll
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\bin\Debug\net9.0\GestorDeNumeros.pdb
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.dll
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\refint\GestorDeNumeros.dll
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.pdb
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\GestorDeNumeros.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-1\GestorDeNumeros\GestorDeNumeros\obj\Debug\net9.0\ref\GestorDeNumeros.dll

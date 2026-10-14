@@ -1,0 +1,113 @@
+﻿using System;
+using System.Data.SqlClient;
+
+namespace AppADOTNET
+{
+    public class ProductoADO
+    {
+        //conection
+        private readonly string _connectionString = "Server=localhost\\SQLEXPRESS;Database=SistemaVentas;Integrated Security=True;";
+
+        public void ConsultarProductos()
+        {
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                string query = "SELECT ProductoID, Nombre, Precio, Stock FROM Productos";
+                SqlCommand command = new SqlCommand(query, connection);
+
+                try
+                {
+                    connection.Open();
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        Console.WriteLine("--- Lista de Productos ---");
+                        while (reader.Read())
+                        {
+                            Console.WriteLine($"ID: {reader["ProductoID"]} | Nombre: {reader["Nombre"]} | Precio: {reader["Precio"]} | Stock: {reader["Stock"]}");
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error al consultar: {ex.Message}");
+                }
+            }
+        }
+
+        // Inserción (INSERT con SqlCommand y Parameters)
+        public void InsertarProducto(int categoriaId, string nombre, decimal precio, int stock)
+        {
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                string query = "INSERT INTO Productos (CategoriaID, Nombre, Precio, Stock) VALUES (@CategoriaID, @Nombre, @Precio, @Stock)";
+                SqlCommand command = new SqlCommand(query, connection);
+
+                // Uso de parámetros para prevenir SQL Injection
+                command.Parameters.AddWithValue("@CategoriaID", categoriaId);
+                command.Parameters.AddWithValue("@Nombre", nombre);
+                command.Parameters.AddWithValue("@Precio", precio);
+                command.Parameters.AddWithValue("@Stock", stock);
+
+                try
+                {
+                    connection.Open();
+                    int filasAfectadas = command.ExecuteNonQuery();
+                    Console.WriteLine($"\nÉxito: Se insertaron {filasAfectadas} producto(s).");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error al insertar: {ex.Message}");
+                }
+            }
+        }
+
+        // Actualización (UPDATE con SqlCommand)
+        public void ActualizarPrecio(int productoId, decimal nuevoPrecio)
+        {
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                string query = "UPDATE Productos SET Precio = @Precio WHERE ProductoID = @ProductoID";
+                SqlCommand command = new SqlCommand(query, connection);
+
+                command.Parameters.AddWithValue("@Precio", nuevoPrecio);
+                command.Parameters.AddWithValue("@ProductoID", productoId);
+
+                try
+                {
+                    connection.Open();
+                    int filasAfectadas = command.ExecuteNonQuery();
+                    Console.WriteLine($"\nÉxito: Se actualizaron {filasAfectadas} producto(s).");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error al actualizar: {ex.Message}");
+                }
+            }
+        }
+
+        // Eliminación (DELETE con SqlCommand)
+        public void EliminarProducto(int productoId)
+        {
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                string query = "DELETE FROM Productos WHERE ProductoID = @ProductoID";
+                SqlCommand command = new SqlCommand(query, connection);
+
+                command.Parameters.AddWithValue("@ProductoID", productoId);
+
+                try
+                {
+                    connection.Open();
+                    int filasAfectadas = command.ExecuteNonQuery();
+                    Console.WriteLine($"\nÉxito: Se eliminaron {filasAfectadas} producto(s).");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Error al eliminar: {ex.Message}");
+                }
+            }
+        }
+
+
+    }
+}

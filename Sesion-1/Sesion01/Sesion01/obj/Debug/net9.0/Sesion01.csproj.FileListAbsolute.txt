@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion01\Sesion01\bin\Debug\net9.0\Sesion01.exe
+C:\CHAPTER NET\Sesion01\Sesion01\bin\Debug\net9.0\Sesion01.deps.json
+C:\CHAPTER NET\Sesion01\Sesion01\bin\Debug\net9.0\Sesion01.runtimeconfig.json
+C:\CHAPTER NET\Sesion01\Sesion01\bin\Debug\net9.0\Sesion01.dll
+C:\CHAPTER NET\Sesion01\Sesion01\bin\Debug\net9.0\Sesion01.pdb
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.dll
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\refint\Sesion01.dll
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.pdb
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\Sesion01.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion01\Sesion01\obj\Debug\net9.0\ref\Sesion01.dll

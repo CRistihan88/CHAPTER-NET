@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CHAPTER NET\\Sesion-2\\SistemaEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6507B-9393-49C1-8D2D-F919B80E94F1}|SistemaEmpleados\\SistemaEmpleados.csproj|c:\\chapter net\\sesion-2\\sistemaempleados\\sistemaempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6507B-9393-49C1-8D2D-F919B80E94F1}|SistemaEmpleados\\SistemaEmpleados.csproj|solutionrelative:sistemaempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CHAPTER NET\\Sesion-2\\SistemaEmpleados\\SistemaEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaEmpleados\\Program.cs",
+              "ToolTip": "C:\\CHAPTER NET\\Sesion-2\\SistemaEmpleados\\SistemaEmpleados\\Program.cs*",
+              "RelativeToolTip": "SistemaEmpleados\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:29:01.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

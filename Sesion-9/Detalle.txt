@@ -1,0 +1,5 @@
+5 filas salieron de tu archivo CSV original.   
+2 filas fueron rechazadas por la regla de negocio (montos negativos o cero) y se fueron al primer archivo de texto.   
+Las 3 filas restantes pasaron a la validación de clientes.   
+1 fila fue rechazada porque el cliente no existía y se fue a tu segundo archivo de texto.   
+2 filas completamente válidas pasaron todas las pruebas y se insertaron exitosamente en tu tabla de SQL Server.

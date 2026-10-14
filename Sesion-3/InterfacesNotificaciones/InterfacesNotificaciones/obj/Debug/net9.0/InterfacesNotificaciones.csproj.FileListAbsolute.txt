@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\bin\Debug\net9.0\InterfacesNotificaciones.exe
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\bin\Debug\net9.0\InterfacesNotificaciones.deps.json
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\bin\Debug\net9.0\InterfacesNotificaciones.runtimeconfig.json
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\bin\Debug\net9.0\InterfacesNotificaciones.dll
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\bin\Debug\net9.0\InterfacesNotificaciones.pdb
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.dll
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\refint\InterfacesNotificaciones.dll
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.pdb
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\InterfacesNotificaciones.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-2\InterfacesNotificaciones\InterfacesNotificaciones\obj\Debug\net9.0\ref\InterfacesNotificaciones.dll

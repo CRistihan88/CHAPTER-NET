@@ -1,0 +1,14 @@
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\bin\Debug\net9.0\SimuladorColaAtencion.exe
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\bin\Debug\net9.0\SimuladorColaAtencion.deps.json
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\bin\Debug\net9.0\SimuladorColaAtencion.runtimeconfig.json
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\bin\Debug\net9.0\SimuladorColaAtencion.dll
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\bin\Debug\net9.0\SimuladorColaAtencion.pdb
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.AssemblyInfoInputs.cache
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.AssemblyInfo.cs
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.csproj.CoreCompileInputs.cache
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.dll
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\refint\SimuladorColaAtencion.dll
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.pdb
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\SimuladorColaAtencion.genruntimeconfig.cache
+C:\CHAPTER NET\Sesion-2\SimuladorColaAtencion\SimuladorColaAtencion\obj\Debug\net9.0\ref\SimuladorColaAtencion.dll
